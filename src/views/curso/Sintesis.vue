@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 En esta unidad, se abordan las dimensiones del desarrollo infantil, que abarcan aspectos clave como lo socio afectivo, corporal, comunicativo, cognitivo, estético, espiritual y ético. Cada una de estas dimensiones juega un papel crucial en el desarrollo global de los niños, influyendo directamente en su proceso de aprendizaje y en su formación integral. Al comprender cómo estas dimensiones se interrelacionan, el estudiante puede diseñar estrategias pedagógicas más efectivas y adaptadas a las necesidades de los niños en el contexto.
 
       .row.justify-content-center
         .col-lg-12.mb-5
