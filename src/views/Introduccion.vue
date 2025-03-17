@@ -16,28 +16,28 @@
     p.mb-4 Al concluir la unidad, los estudiantes habrán adquirido las competencias necesarias para:
 
     .row.justify-content-center.align-items-stretch.mb-4
-        .col-lg-4
-          .bg-color-2.p-4(data-aos="fade-left").h-100
-            .row.align-items-center
-              .col-lg-auto
-                img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto
-              .col-lg
-                p.mb-0 Conceptualizar las dimensiones del desarrollo infantil y su importancia educativa.
+      .col-lg-4.mb-3.mb-lg-0
+        .bg-color-2.p-4(data-aos="fade-left").h-100
+          .row.align-items-center
+            .col-lg-auto
+              img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto
+            .col-lg
+              p.mb-0 Conceptualizar las dimensiones del desarrollo infantil y su importancia educativa.
 
-        .col-lg-4
-          .bg-color-2.p-4(data-aos="fade-left").h-100
-            .row.align-items-center
-              .col-lg-auto
-                img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
-              .col-lg
-                p.mb-0 Entender cómo interactúan estas dimensiones y cómo afectan el aprendizaje y formación integral de los niños.
-        .col-lg-4
-          .bg-color-2.p-4(data-aos="fade-left").h-100
-            .row.align-items-center
-              .col-lg-auto
-                img(src="@/assets/curso/intro/4.svg", style="max-width: 90px").mx-auto
-              .col-lg
-                p.mb-0 Diseñar propuestas pedagógicas que favorezcan el desarrollo global de los niños, alineadas con la Ley 115.
+      .col-lg-4.mb-3.mb-lg-0
+        .bg-color-2.p-4(data-aos="fade-left").h-100
+          .row.align-items-center
+            .col-lg-auto
+              img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
+            .col-lg
+              p.mb-0 Entender cómo interactúan estas dimensiones y cómo afectan el aprendizaje y formación integral de los niños.
+      .col-lg-4.mb-3.mb-lg-0
+        .bg-color-2.p-4(data-aos="fade-left").h-100
+          .row.align-items-center
+            .col-lg-auto
+              img(src="@/assets/curso/intro/4.svg", style="max-width: 90px").mx-auto
+            .col-lg
+              p.mb-0 Diseñar propuestas pedagógicas que favorezcan el desarrollo global de los niños, alineadas con la Ley 115.
     
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4

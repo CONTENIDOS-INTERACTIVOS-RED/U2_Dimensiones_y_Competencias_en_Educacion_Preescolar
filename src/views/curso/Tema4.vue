@@ -18,7 +18,7 @@
         p(data-aos="fade-left") Este nivel educativo no es solo una preparación para la escuela primaria, sino que establece las bases del aprendizaje a lo largo de la vida. A través de experiencias significativas, los niños desarrollan habilidades esenciales que favorecen su adaptación y crecimiento integral.
     
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -27,7 +27,7 @@
               h5 Cognitivo
               p.mb-0 Desarrollo de la memoria, atención, pensamiento lógico y creatividad.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -36,7 +36,7 @@
               h5 Emocional
               p.mb-0 Aprendizaje en el reconocimiento y gestión de emociones.
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -45,7 +45,7 @@
               h5 Social
               p.mb-0 Desarrollo de habilidades como la cooperación, la empatía y la resolución de conflictos.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -85,24 +85,24 @@
 
     
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-down")
         .tarjeta.bg-color-8.h-100
           .bg-color-9.px-4.px-lg-5.py-3.rounded-top
             h5.mb-0.text-center Adquisición del lenguaje y pensamiento lógico
           p.text-center.mb-0.p-4 Facilita la comprensión y expresión oral y escrita.
 
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-up")
         .tarjeta.bg-color-8.h-100
           .bg-color-9.px-4.px-lg-5.py-3.rounded-top
             h5.mb-0.text-center Fortalecimiento de la memoria y la atención	
           p.text-center.mb-0.p-4 Mejora la capacidad de aprendizaje.
 
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-down")
         .tarjeta.bg-color-8.h-100
           .bg-color-9.px-4.px-lg-5.py-4.rounded-top
             h5.mb-0.text-center Promoción de la autonomía
           p.text-center.mb-0.p-4 Favorece la seguridad y confianza en sí mismos.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-up")
         .tarjeta.bg-color-8.h-100
           .bg-color-9.px-4.px-lg-5.py-4.rounded-top
             h5.mb-0.text-center Adaptación a entornos escolares
@@ -129,7 +129,7 @@
               .custom-image-card__text.p-4
                 h5.mb-2.text-center Inclusión
                 p.mb-0 Brinda igualdad de oportunidades sin discriminación.
-          .col-lg-4.mb-4(data-aos="zoom-in-down")
+          .col-lg-4.mb-4(data-aos="zoom-in-up")
             .custom-image-card-2.h-100
               img.custom-image-card__image(src="@/assets/curso/tema4/9.png" alt="")
               .custom-image-card__text.p-4

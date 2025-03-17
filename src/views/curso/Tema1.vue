@@ -49,7 +49,7 @@
     p.mb-4 El desarrollo corporal es esencial para la exploración, la autonomía y el bienestar. Incluye aspectos como la motricidad gruesa y fina, la coordinación y el desarrollo físico (Gallahue & Donnelly, 2008). Estos aspectos están vinculados con habilidades futuras como la escritura (Pellegrini & Smith, 1998). Para fortalecer esta dimensión en el aula, se recomienda:
 
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -58,7 +58,7 @@
               h5 Actividades lúdicas
               p.mb-0 Juegos de movimiento, circuitos motores y deportes adaptados.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -66,8 +66,8 @@
             .col-lg
               h5 Espacios seguros
               p.mb-0 Fomentar el juego libre en un entorno que permita la exploración.
-    .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-6
+    .row.justify-content-center.align-items-stretch.mb-3
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -76,7 +76,7 @@
               h5 Lenguaje corporal
               p.mb-0 Su uso como herramienta educativa favorece la expresión y el aprendizaje.
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -118,7 +118,7 @@
     
     p.mb-4 El desarrollo cognitivo permite a los niños percibir, interpretar y resolver problemas. Jean Piaget propuso cuatro etapas para explicar este proceso:
 
-    .bg-full-width.bg-color-info
+    .bg-full-width.bg-color-info.mb-5
       .p-4.p-md-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
