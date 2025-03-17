@@ -181,28 +181,32 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Qué implica el desarrollo socio afectivo en los niños durante su etapa educativa?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto:
+                  'El desarrollo de habilidades físicas como correr y saltar.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto:
+                  'El desarrollo de capacidades para aprender a leer y escribir.',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'La capacidad de los niños para entender y gestionar sus emociones, así como interactuar socialmente con los demás.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto:
+                  'La capacidad de los niños para expresar sus valores espirituales.',
                 esCorrecta: false,
               },
             ],
@@ -212,28 +216,28 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Cuál de las siguientes dimensiones del desarrollo infantil está más relacionada con el aprendizaje y la resolución de problemas?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Dimensión estética.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto: 'Dimensión cognitiva.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Dimensión espiritual.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto: 'Dimensión corporal.',
                 esCorrecta: false,
               },
             ],
@@ -243,28 +247,32 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Cómo se puede aplicar el concepto de competencia pedagógica en el aula de educación infantil?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto:
+                  'Asegurando que los estudiantes memoricen la mayor cantidad posible de información.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto:
+                  'Diseñando estrategias que permitan a los estudiantes aplicar lo aprendido en diferentes contextos y situaciones.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto:
+                  'Fomentando la competencia de los estudiantes en deportes y actividades físicas.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto:
+                  'Limitando la interacción entre los niños para fomentar la concentración individual.',
                 esCorrecta: false,
               },
             ],
@@ -273,28 +281,33 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Cuál es la función principal de la Ley General de Educación (Ley 115) en el contexto de la educación infantil?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto:
+                  'Establecer las estrategias pedagógicas que los docentes deben seguir.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto:
+                  'Regular las competencias físicas que los niños deben alcanzar en la educación básica.',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'Establecer los principios, objetivos, derechos y deberes del sistema educativo en Colombia.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto:
+                  'Determinar los horarios y fechas de inicio y finalización de las clases en todas las instituciones educativas.',
                 esCorrecta: false,
               },
             ],
@@ -304,28 +317,32 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Qué importancia tiene el desarrollo estético en la educación infantil?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto:
+                  'Permite que los niños adquieran habilidades matemáticas.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto:
+                  'Fomenta la capacidad de los niños para apreciar y expresar la belleza, así como para desarrollar su creatividad.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto:
+                  'Ayuda a los niños a centrarse en actividades de aprendizaje físico.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto:
+                  'Promueve exclusivamente el conocimiento de la historia del arte.',
                 esCorrecta: false,
               },
             ],
