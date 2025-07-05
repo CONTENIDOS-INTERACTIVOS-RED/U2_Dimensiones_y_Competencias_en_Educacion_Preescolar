@@ -20,7 +20,6 @@
     #t_2_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.1] Definición de competencia
     
-    p.mb-4 El concepto de competencia en educación infantil va más allá del desempeño en tareas específicas. Se define como la capacidad de movilizar y aplicar conocimientos, habilidades, actitudes y valores para resolver problemas y enfrentar situaciones de la vida cotidiana de manera autónoma y creativa.
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
